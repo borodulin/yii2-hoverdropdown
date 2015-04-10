@@ -1,6 +1,6 @@
 {
     "name": "conquer/hoverdropdown",
-    "description": "Conquer fontawesome widget",
+    "description": "Yii2 bootstrap hoverdropdown widget",
     "keywords": ["yii2", "extension", "widget", "hoverdropdown"],
     "homepage": "https://github.com/borodulin/yii2-hoverdropdown",
     "type": "yii2-extension",
